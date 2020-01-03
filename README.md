@@ -3,7 +3,7 @@
 
 
 
-(https://canarytokens.org/generate#)[Canary Tokens] - Generates tokens that will send you an
+[https://canarytokens.org/generate#](Canary Tokens) - Generates tokens that will send you an
 email when accessed. Good for honeypots.
 
 (https://explainshell.com/)[Explain Shell] - Explains shell commands before you execute them.
