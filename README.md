@@ -3,14 +3,14 @@
 
 
 
-https://canarytokens.org/generate# - Generates tokens that will send you an
+(https://canarytokens.org/generate#)[Canary Tokens] - Generates tokens that will send you an
 email when accessed. Good for honeypots.
 
-https://explainshell.com/ - Explains shell commands before you execute them.
+(https://explainshell.com/)[Explain Shell] - Explains shell commands before you execute them.
 
-https://haveibeenpwned.com/ - Simple breach checking.
+(https://haveibeenpwned.com/)[HaveIBeenPwned] - Simple, free breach checking.
 
-https://www.grc.com/inspectre.htm - Identifying PCs with Spectre Vulnerabilities.
+(https://www.grc.com/inspectre.htm)[Inspectre] - Identifying PCs with Spectre Vulnerabilities.
 
 For using `pip install` on corporate networks.
 ```
