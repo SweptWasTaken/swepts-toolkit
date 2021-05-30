@@ -27,6 +27,8 @@ email when accessed. Good for honeypots.
 
 [Vid Crop](https://ezgif.com/crop-video) - Online video cropping. I use it for gifs and small mp4s because i'm lazy.
 
+[PreviousFilesRecovery](https://www.nirsoft.net/utils/previous_files_recovery.html) - Excellent no-nonense tool for recovering deleted files from Windows 10 shadow backups.
+
 For using `pip install` on corporate networks.
 ```
 python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
