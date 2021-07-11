@@ -29,6 +29,8 @@ email when accessed. Good for honeypots.
 
 [PreviousFilesRecovery](https://www.nirsoft.net/utils/previous_files_recovery.html) - Excellent no-nonense tool for recovering deleted files from Windows 10 shadow backups.
 
+[Steam Depot Downloader](https://github.com/SteamRE/DepotDownloader) - Since apparently Valve is dumb and broke it in SteamCMD.
+
 For using `pip install` on corporate networks.
 ```
 python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
