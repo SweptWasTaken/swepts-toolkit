@@ -31,6 +31,10 @@ email when accessed. Good for honeypots.
 
 [Steam Depot Downloader](https://github.com/SteamRE/DepotDownloader) - Since apparently Valve is dumb and broke it in SteamCMD.
 
+[Spotify Downloader](https://github.com/spotDL/spotify-downloader) - Can only install via pip but it's damn good.
+
+[Best fork of youtube-dl](https://github.com/yt-dlp/yt-dlp) - Just better.
+
 For using `pip install` on corporate networks.
 ```
 python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
