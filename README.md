@@ -35,6 +35,8 @@ email when accessed. Good for honeypots.
 
 [Best fork of youtube-dl](https://github.com/yt-dlp/yt-dlp) - Just better.
 
+[Secure XRDP](http://c-nergy.be/blog/?p=14965) - Uses SSH tunneling.
+
 For using `pip install` on corporate networks.
 ```
 python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
