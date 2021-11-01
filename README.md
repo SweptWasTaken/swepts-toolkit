@@ -37,6 +37,8 @@ email when accessed. Good for honeypots.
 
 [Secure XRDP](http://c-nergy.be/blog/?p=14965) - Uses SSH tunneling.
 
+[ShieldsUp](https://www.grc.com/x/ne.dll?bh0bkyd2) - Analyze home/corporate networks for common attack vectors.
+
 For using `pip install` on corporate networks.
 ```
 python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
