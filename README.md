@@ -41,5 +41,5 @@ email when accessed. Good for honeypots.
 
 For using `pip install` on corporate networks.
 ```
-python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
+python -m pip install --user [PKG NAME] --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
 ``` 
